@@ -114,6 +114,13 @@ public class UiUtils {
         return decimalFormat.format(number);
     }
 
+    /**
+     * 格式化文字字符串为制定格式
+     *
+     * @param stringNum 需要格式化的字符串
+     * @param pattern   格式类型
+     * @return 格式化后的字符串
+     */
     public static String formatString(String stringNum, String pattern) {
         if (isEmpty(stringNum)) {
             if (stringNum.contains(".")) {
