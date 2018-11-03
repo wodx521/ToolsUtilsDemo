@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ToolsUtilsLibrary</string>
+    <string name="copy_success">复制成功</string>
+    <string name="copy_fail">复制失败</string>
+</resources>

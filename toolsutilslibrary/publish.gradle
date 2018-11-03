@@ -2,9 +2,9 @@ apply plugin: 'com.github.dcendents.android-maven'
 apply plugin: 'com.jfrog.bintray'
 version = "0.0.1"
 
-def siteUrl = 'https://github.com/wodx521/WaterViewDemo'    // Git项目主页def
+def siteUrl = 'https://github.com/wodx521/ToolsUtilsDemo'    // Git项目主页def
 
-def gitUrl = 'https://github.com/wodx521/WaterViewDemo.git' // Git仓库url
+def gitUrl = 'https://github.com/wodx521/ToolsUtilsDemo.git' // Git仓库url
 
 group = "com.wanou.library" // 一般为包名
 

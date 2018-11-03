@@ -1,4 +1,4 @@
-package com.wanou.tools_utils_library;
+package com.wanou.toolsutilslibrary;
 
 import org.junit.Test;
 
