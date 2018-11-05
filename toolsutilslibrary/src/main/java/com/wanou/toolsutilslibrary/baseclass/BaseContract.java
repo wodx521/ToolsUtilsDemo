@@ -1,8 +1,8 @@
 package com.wanou.toolsutilslibrary.baseclass;
 
 /**
- * @author wodx521
- * @date on 2018/8/17
+ * Author by wodx521
+ * Date on 2018/11/5.
  */
 public interface BaseContract {
     interface BasePresenter<T> {

@@ -8,8 +8,8 @@ import android.content.pm.PackageManager;
 import android.os.Build;
 
 /**
- * @author wodx521
- * @date 2018/11/3
+ * Author by wodx521
+ * Date on 2018/11/5.
  */
 public class AppInfoUtils {
     @SuppressLint("StaticFieldLeak")

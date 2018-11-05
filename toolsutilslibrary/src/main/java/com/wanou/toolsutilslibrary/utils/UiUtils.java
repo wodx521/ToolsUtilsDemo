@@ -11,6 +11,10 @@ import android.widget.TextView;
 
 import java.text.DecimalFormat;
 
+/**
+ * Author by wodx521
+ * Date on 2018/11/5.
+ */
 public class UiUtils {
     @SuppressLint("StaticFieldLeak")
     private static Context context;

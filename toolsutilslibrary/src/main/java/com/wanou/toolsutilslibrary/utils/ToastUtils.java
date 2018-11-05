@@ -6,8 +6,8 @@ import android.support.annotation.StringRes;
 import android.widget.Toast;
 
 /**
- * @author wodx521
- * @date on 2018/8/14
+ * Author by wodx521
+ * Date on 2018/11/5.
  */
 
 @SuppressLint("ShowToast")

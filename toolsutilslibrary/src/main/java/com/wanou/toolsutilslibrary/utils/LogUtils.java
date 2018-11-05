@@ -14,10 +14,8 @@ import java.util.Calendar;
 import java.util.Date;
 
 /**
- * Log工具类，可控制Log输出开关、保存Log到文件、过滤输出等级
- *
- * @author wodx521
- * @date on 2018/8/14
+ * Author by wodx521
+ * Date on 2018/11/5.
  */
 @SuppressLint("SimpleDateFormat")
 public class LogUtils {

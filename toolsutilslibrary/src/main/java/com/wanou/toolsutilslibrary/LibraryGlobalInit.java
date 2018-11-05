@@ -6,16 +6,15 @@ import com.wanou.toolsutilslibrary.utils.AppInfoUtils;
 import com.wanou.toolsutilslibrary.utils.ClipboardUtils;
 import com.wanou.toolsutilslibrary.utils.Dp2PxUtils;
 import com.wanou.toolsutilslibrary.utils.LogUtils;
-import com.wanou.toolsutilslibrary.utils.UiUtils;
 import com.wanou.toolsutilslibrary.utils.ResUtils;
 import com.wanou.toolsutilslibrary.utils.SaveImageUtils;
 import com.wanou.toolsutilslibrary.utils.SpUtils;
 import com.wanou.toolsutilslibrary.utils.ToastUtils;
-
+import com.wanou.toolsutilslibrary.utils.UiUtils;
 
 /**
- * @author wodx521
- * @date on 2018/8/14
+ * Author by wodx521
+ * Date on 2018/11/5.
  */
 public class LibraryGlobalInit {
     /**

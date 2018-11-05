@@ -9,8 +9,8 @@ import com.wanou.toolsutilslibrary.managerclass.ActivityManage;
 
 
 /**
- * @author wodx521
- * @date on 2018/8/10
+ * Author by wodx521
+ * Date on 2018/11/5.
  */
 public abstract class BaseActivity extends AppCompatActivity {
 
@@ -25,7 +25,6 @@ public abstract class BaseActivity extends AppCompatActivity {
 
         initData(savedInstanceState);
 
-        setData();
     }
 
     /**

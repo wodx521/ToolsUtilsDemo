@@ -11,8 +11,8 @@ import com.wanou.toolsutilslibrary.R;
 
 
 /**
- * @author wodx521
- * @date on 2018/8/15
+ * Author by wodx521
+ * Date on 2018/11/5.
  */
 public class ClipboardUtils {
     @SuppressLint("StaticFieldLeak")

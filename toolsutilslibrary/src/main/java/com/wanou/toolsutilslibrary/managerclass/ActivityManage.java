@@ -8,8 +8,8 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * @author wodx521
- * @date on 2018/8/10
+ * Author by wodx521
+ * Date on 2018/11/5.
  */
 public class ActivityManage {
     private static List<Activity> activities = new ArrayList<>();

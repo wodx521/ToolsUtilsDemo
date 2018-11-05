@@ -5,6 +5,10 @@ import android.support.v7.widget.RecyclerView;
 import android.view.LayoutInflater;
 import android.view.View;
 
+/**
+ * Author by wodx521
+ * Date on 2018/11/5.
+ */
 public abstract class BaseRecycleViewAdapter extends RecyclerView.Adapter<RecyclerView.ViewHolder> implements
         View.OnClickListener, View.OnLongClickListener {
 

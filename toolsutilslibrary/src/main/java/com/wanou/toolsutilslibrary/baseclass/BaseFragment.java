@@ -9,8 +9,8 @@ import android.view.View;
 import android.view.ViewGroup;
 
 /**
- * @author wodx521
- * @date on 2018/8/10
+ * Author by wodx521
+ * Date on 2018/11/5.
  */
 public abstract class BaseFragment extends Fragment {
 

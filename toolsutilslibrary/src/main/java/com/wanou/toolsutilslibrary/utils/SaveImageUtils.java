@@ -17,8 +17,8 @@ import java.io.FileOutputStream;
 import java.io.IOException;
 
 /**
- * @author wodx521
- * @date on 2018/8/14
+ * Author by wodx521
+ * Date on 2018/11/5.
  */
 public class SaveImageUtils {
     @SuppressLint("StaticFieldLeak")

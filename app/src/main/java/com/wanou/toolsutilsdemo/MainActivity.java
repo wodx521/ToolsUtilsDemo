@@ -1,15 +1,15 @@
 package com.wanou.toolsutilsdemo;
 
 import android.os.Bundle;
-import android.support.v7.app.AppCompatActivity;
 import android.view.View;
 import android.widget.TextView;
 
+import com.wanou.toolsutilslibrary.baseclass.BaseActivity;
 import com.wanou.toolsutilslibrary.utils.CountDownUtils;
 import com.wanou.toolsutilslibrary.utils.LogUtils;
 import com.wanou.toolsutilslibrary.utils.UiUtils;
 
-public class MainActivity extends AppCompatActivity {
+public class MainActivity extends BaseActivity {
     int i = 10;
 
     @Override
@@ -43,6 +43,26 @@ public class MainActivity extends AppCompatActivity {
         boolean empty = UiUtils.isEmpty("");
         String s = UiUtils.formatString("", "0.00");
         LogUtils.d(empty + "------" + s);
+    }
+
+    @Override
+    protected int getResId() {
+        return 0;
+    }
+
+    @Override
+    protected void initView() {
+
+    }
+
+    @Override
+    protected void initData(Bundle savedInstanceState) {
+
+    }
+
+    @Override
+    protected void setData() {
+
     }
 
     @Override
